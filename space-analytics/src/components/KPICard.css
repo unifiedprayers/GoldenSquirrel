@@ -1,0 +1,19 @@
+.kpi-card {
+  background: #020617;
+  border: 1px solid #1e293b;
+  border-radius: 12px;
+  padding: 16px;
+  width: 220px;
+}
+
+.kpi-title {
+  color: #94a3b8;
+  font-size: 14px;
+}
+
+.kpi-value {
+  display: block;
+  margin-top: 8px;
+  font-size: 24px;
+  font-weight: bold;
+}
